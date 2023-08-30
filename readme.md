@@ -3,7 +3,7 @@
 ## Overview
 This project is a Jupyter Notebook that demonstrates how to build a simple text search engine from scratch. The search engine works based on the content of the documents and incorporates user feedback to improve the relevance of search results over time. The notebook is designed to be educational and serves as a practical introduction to various concepts in Natural Language Processing (NLP) and Information Retrieval.
 
-![data flow graph](./assets/your-image.svg)
+![data flow graph](./assets/graph.svg)
 
 ## Features
 
